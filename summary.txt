@@ -1,0 +1,9 @@
+Project summary
+    1. Get channel details function = completed.
+    2. Get video details function = completed.
+    3. Get comment details function = completed.
+    4. Data cleaning process = under progress.
+    5. Migrate data to sql server = under progress.
+    6. Data Querying from Sql = under progress.
+    7. Setup streamlit = under progress.
+    8. Testing = under progress.

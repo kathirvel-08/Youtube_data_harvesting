@@ -1,0 +1,8 @@
+#Library requirements with python
+
+google-api-python-client
+pandas
+sqlalchemy
+mysql-connector-python
+isodate
+streamlit
